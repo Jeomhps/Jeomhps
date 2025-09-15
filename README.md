@@ -21,6 +21,10 @@ I'm actively maintaining and developing projects that challenge me and showcase 
 
 These are my main focus, and I actively maintain them. Other projects in my repositories serve as showcases of my work in various domains and experiments.
 
+## GitHub Stats
+
+![Jeomhps's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeomhps&show_icons=true&theme=radical)
+
 ## More About Me
 
 - I’m always keen to learn anything IT-related.
